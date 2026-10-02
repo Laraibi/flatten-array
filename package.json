@@ -1,0 +1,13 @@
+{
+  "name": "flatten-array-challenge",
+  "version": "1.0.0",
+  "description": "JavaScript challenge: flatten a nested array without using flat() or flatMap()",
+  "private": true,
+  "main": "flatten-challenge.js",
+  "scripts": {
+    "test": "node flatten.test.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
